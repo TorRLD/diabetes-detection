@@ -45,5 +45,6 @@ Para começar a usar o projeto, siga os passos abaixo:
 Para obter o código-fonte, utilize o comando `git clone` e acesse o diretório do projeto:
 
 ```bash
-git clone [https://github.com/TorRLD/diabetes-detection.git](https://github.com/TorRLD/diabetes-detection.git)
+git clone https://github.com/TorRLD/diabetes-detection.git
 cd diabetes-detection
+
