@@ -15,7 +15,6 @@
 
 Desenvolver e validar um dispositivo de auxílio diagnóstico baseado em Inteligência Artificial (**TinyML**) na placa **BitDogLab**, capaz de inferir o risco de diabetes em tempo real através de uma Rede Neural. O modelo roda localmente no microcontrolador RP2040, utilizando o dataset Pima Indians Diabetes[^1].
 
-> [^1]: Referência
 
 ---
 
@@ -47,4 +46,5 @@ Para obter o código-fonte, utilize o comando `git clone` e acesse o diretório 
 ```bash
 git clone https://github.com/TorRLD/diabetes-detection.git
 cd diabetes-detection
+
 
